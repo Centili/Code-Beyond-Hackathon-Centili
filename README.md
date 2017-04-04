@@ -22,7 +22,7 @@ Za potrebe generisanja podataka napravili smo vam malu klijentsku aplikaciju koj
 
 Generator je napisan u Javi i stoga vam je potrebna Java 8 kako biste ga pokrenuli na vašoj mašini. On generiše nasumične podatke i HTTP POST request-om šalje JSON objekat na adresu koju specificirate kao argument prilikom pokretanja aplikacije iz komandne linije. Takođe, generator prima još jedan ulazni argument, koji predstavlja broj request-ova po minuti. Oba parametra su obavezna.
 Generator se pokreće izvršavanjem komande u komandnoj liniji.
-Generator mozete preužeti na sledećem [linku](https://nodejs.org/).
+Generator mozete preužeti na sledećem [link-u](https://github.com/Centili/Code-Beyond-Hackathon-Centili/raw/master/GeoTrackingDataGenerator/GeoTrackingDataGenerator.jar).
 ##### Primer:
 Ukoliko se GeoTrackingDataGenerator.jar nalazi na **C** particiji u folderu Centili, za pokretanje se koristi komanda:
 ```sh
