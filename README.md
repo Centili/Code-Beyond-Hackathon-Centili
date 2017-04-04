@@ -16,7 +16,7 @@ Jedna od mogućih primena ovakvog servisa je povezivanje ekrane kako bismo svako
 
 ### Tehnologija
 Dozvoljeno je korišćenje bilo koje platforme i tehnologije za razvoj vašeg rešenja. Takođe je moguće koristiti kombinaciju više platformi i tehnologija.
-Potrebno je koristiti bilo koji version control system (Git, SVM, GitHub) za upravljanje vašim rešenjem. Link ka repozitorijumu je potrebno dostaviti mentorima iz Centilija nakon kreiranja istog.
+Potrebno je koristiti bilo koji version control system (Git, SVN, GitHub) za upravljanje vašim rešenjem. Link ka repozitorijumu je potrebno dostaviti mentorima iz Centilija nakon kreiranja istog.
 
 ### GeoTrackingDataGenerator
 Za potrebe generisanja podataka napravili smo vam malu klijentsku aplikaciju koja generiše nasumične podatke koji reprezentuju realne podatke sa kojima radi naša platforma.
