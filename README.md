@@ -15,7 +15,7 @@ Kao izvor transakcija ćete dobiti generator podataka koji će simulirati rad na
 Jedna od mogućih primena ovakvog servisa je povezivanje ekrane kako bismo svakodnevno u office-u mogli da pratimo broj transakcija u celom svetu i imamo uvid u funkcionisanje platforme širom sveta.
 
 ### Tehnologija
-Dozvoljeno je korišćenje bilo koje platforme i tehnologije za razvoj vašeg rešenja. Takođe je moguće koristiti kombinaciju više platformi i tehnologija. Dozvoljeno je korišćenje svih javno dostupnih API-ija.
+Dozvoljeno je korišćenje bilo koje platforme i tehnologije za razvoj vašeg rešenja. Takođe je moguće koristiti kombinaciju više platformi i tehnologija. Dozvoljeno je korišćenje svih javno dostupnih API-ja.
 Potrebno je koristiti bilo koji version control system (Git, SVN, GitHub) za upravljanje vašim rešenjem. Link ka repozitorijumu je potrebno dostaviti mentorima iz Centilija nakon kreiranja istog.
 
 ### GeoTrackingDataGenerator
