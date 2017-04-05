@@ -23,7 +23,7 @@ Za potrebe generisanja podataka napravili smo vam malu klijentsku aplikaciju koj
 
 Generator je napisan u Javi i stoga vam je potrebna Java 8 kako biste ga pokrenuli na vašoj mašini. On generiše nasumične podatke i HTTP POST request-om šalje JSON objekat na adresu koju specificirate kao argument prilikom pokretanja aplikacije iz komandne linije. Takođe, generator prima još jedan ulazni argument, koji predstavlja broj request-ova po minuti. Oba parametra su obavezna.
 Generator se pokreće izvršavanjem komande u komandnoj liniji.
-Generator mozete preužeti na sledećem [link-u](https://github.com/Centili/Code-Beyond-Hackathon-Centili/raw/master/GeoTrackingDataGenerator/GeoTrackingDataGenerator.jar).
+Generator možete preuzeti na sledećem [link-u](https://github.com/Centili/Code-Beyond-Hackathon-Centili/raw/master/GeoTrackingDataGenerator/GeoTrackingDataGenerator.jar).
 ##### Primer:
 Ukoliko se GeoTrackingDataGenerator.jar nalazi na **C** particiji u folderu Centili, za pokretanje se koristi komanda:
 ```sh
@@ -31,4 +31,5 @@ java -jar C:\Centili\GeoTrackingDataGenerator.jar http://localhost:8080/receive 
 ```
 **Obavezno je koristiti podatke koje stvara generator statičkih podataka.**
 
-### Komunikacija 
+### Komunikacija
+Sva komunikacija sa mentorima i kompanijom Centili će se vršiti preko Slack platforme. Kreiran je zaseban tim za svrhu ovog hakatona. Poziv za Slack tim ste dobili na vašu email adrese. Ohrabrujemo vas da slobondo kontaktirate mentore i pitate za sve nedoumice, potrudićemo se da vam u što kraćem roku odgovorimo. Tim sadži javni kanal #general koji preporučujemo za FAQ kako bi svi članovi i timovi videli sadržaj i kako bi izbegli redundantnost. Ako imate pitanje koje je specifično samo za vas možete ga postaviti u privatnom kanalu koji će biti dodeljen svakom timu.
