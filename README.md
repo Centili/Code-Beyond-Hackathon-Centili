@@ -11,11 +11,11 @@ Fokus nam je podsticanje poslovnog rasta za mobilne operatere, online kompanije,
 ### Zadatak
 Uz ogromno tržište koje pokrivamo i brojem telekom operatera sa kojima smo povezani, ponekad je teško vizualizovati rad našeg sistema. Pojavila se potreba za mogućnošću praćenja transakcija i revenue-a koji se odvijaju u okviru naše platforme širom sveta u realtime mode-u, na intuitivan i interaktivan način.
 Vaš zadatak je da napravite softversko rešenje koje obrađuje transakcije koje prolaze kroz našu platformu i omogućava real-time praćenje i prikazivanje svih transakcija na svetskoj mapi u okviru našeg sistema.
-Kao izvor transakcija ćete dobiti generator statičkih podataka koji će simulirati rad naše platforme i obezbediti vam potrebne ulazne podatke za realizaciju rešenja. Broj transakcija koji obrađuje naša platforma je veliki, stoga generator može da simulira proizvoljan broj transakcija po minuti, pa je jedan od vaših zadataka da rešenje podrži što veći broj transakcija u jedinici vremena.
+Kao izvor transakcija ćete dobiti generator podataka koji će simulirati rad naše platforme i obezbediti vam potrebne ulazne podatke za realizaciju rešenja. Broj transakcija koji obrađuje naša platforma je veliki, stoga generator može da simulira proizvoljan broj transakcija po minuti, pa je jedan od vaših zadataka da rešenje podrži što veći broj transakcija u jedinici vremena.
 Jedna od mogućih primena ovakvog servisa je povezivanje ekrane kako bismo svakodnevno u office-u mogli da pratimo broj transakcija u celom svetu i imamo uvid u funkcionisanje platforme širom sveta.
 
 ### Tehnologija
-Dozvoljeno je korišćenje bilo koje platforme i tehnologije za razvoj vašeg rešenja. Takođe je moguće koristiti kombinaciju više platformi i tehnologija. Dozvoljeno je korišćenje svih javno dostupnih API-ija.
+Dozvoljeno je korišćenje bilo koje platforme i tehnologije za razvoj vašeg rešenja. Takođe je moguće koristiti kombinaciju više platformi i tehnologija. Dozvoljeno je korišćenje svih javno dostupnih API-ja.
 Potrebno je koristiti bilo koji version control system (Git, SVN, GitHub) za upravljanje vašim rešenjem. Link ka repozitorijumu je potrebno dostaviti mentorima iz Centilija nakon kreiranja istog.
 
 ### GeoTrackingDataGenerator
@@ -29,7 +29,7 @@ Ukoliko se GeoTrackingDataGenerator.jar nalazi na **C** particiji u folderu Cent
 ```sh
 java -jar C:\Centili\GeoTrackingDataGenerator.jar http://localhost:8080/receive 60
 ```
-**Obavezno je koristiti podatke koje stvara generator statičkih podataka.**
+**Obavezno je koristiti podatke koje stvara generator podataka.**
 
 ### Komunikacija
 Sva komunikacija sa mentorima i kompanijom Centili će se vršiti preko Slack platforme. Kreiran je zaseban tim za svrhu ovog hakatona. Poziv za Slack tim ste dobili na vašu email adrese. Ohrabrujemo vas da slobondo kontaktirate mentore i pitate za sve nedoumice, potrudićemo se da vam u što kraćem roku odgovorimo. Tim sadži javni kanal #general koji preporučujemo za FAQ kako bi svi članovi i timovi videli sadržaj i kako bi izbegli redundantnost. Ako imate pitanje koje je specifično samo za vas možete ga postaviti u privatnom kanalu koji će biti dodeljen svakom timu.
