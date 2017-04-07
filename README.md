@@ -28,6 +28,11 @@ Generator možete preuzeti na sledećem [link-u](https://github.com/Centili/Code
 Ukoliko se GeoTrackingDataGenerator.jar nalazi na **C** particiji u folderu Centili, za pokretanje se koristi komanda:
 ```sh
 java -jar C:\Centili\GeoTrackingDataGenerator.jar http://localhost:8080/receive 60
+
+```
+Primer JSON-a koji se dobija od generator-a:
+```json
+{"countryName":"Slovakia","countryCode":"sk","timeStamp":1491562738085,"successful":true}
 ```
 **Obavezno je koristiti podatke koje stvara generator podataka.**
 
