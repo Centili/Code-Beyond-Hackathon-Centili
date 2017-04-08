@@ -8,11 +8,15 @@
 Centili je globalni provajder tehnologija za mobilno plaćanje koji pomaže mobilnim operaterima i digitalnim kompanijama da omoguće svojim korisnicima brz pristup online uslugama, proizvodima i sadržaju, istovremeno pružajući mobilnim korisnicima jednostavan i siguran način online plaćanja. 
 Fokus nam je podsticanje poslovnog rasta za mobilne operatere, online kompanije, developere mobilnih aplikacija i pružaoce digitalnog sadržaja, dok je glavna vizija koja nas pokreće to da svim ljudima koji nemaju pristup tradicionalnim načinima plaćanja omogućimo pristup i infrastrukturu za jednostavno online plaćanje putem njihovih prepaid ili postpaid računa.
 
-### Zadatak
+### Zadatak:
+#### Glavni zadata:
 Uz ogromno tržište koje pokrivamo i brojem telekom operatera sa kojima smo povezani, ponekad je teško vizualizovati rad našeg sistema. Pojavila se potreba za mogućnošću praćenja transakcija i revenue-a koji se odvijaju u okviru naše platforme širom sveta u realtime mode-u, na intuitivan i interaktivan način.
 Vaš zadatak je da napravite softversko rešenje koje obrađuje transakcije koje prolaze kroz našu platformu i omogućava real-time praćenje i prikazivanje svih transakcija na svetskoj mapi u okviru našeg sistema.
 Kao izvor transakcija ćete dobiti generator podataka koji će simulirati rad naše platforme i obezbediti vam potrebne ulazne podatke za realizaciju rešenja. Broj transakcija koji obrađuje naša platforma je veliki, stoga generator može da simulira proizvoljan broj transakcija po minuti, pa je jedan od vaših zadataka da rešenje podrži što veći broj transakcija u jedinici vremena.
 Jedna od mogućih primena ovakvog servisa je povezivanje ekrane kako bismo svakodnevno u office-u mogli da pratimo broj transakcija u celom svetu i imamo uvid u funkcionisanje platforme širom sveta.
+#### I dodatni zadatak:
+Svaka naša transakcija ima određeni broj parametara vezanih za nju, koji je bolje opisuju. Vaš zadatak je da analizirate koji parametri su na koji način relevantni i vizuelno ih prikažete, tj. da realizujete softversko rešenje koje će vršiti komparativnu analizu transakcija i to po servisu, po državi ili po operateru, kao i po bilo kojoj drugoj kombinaciji parametara koju jedna transakcija nosi uz sebe.
+Cilj je da razumete koji su podaci važni, kao i kakve informacije se mogu izvući iz njih, i da uradite komparativnu analitiku za njih. Prilikom predstavljanja rešenja, biće potrebno obrazložiti zašto su informacije koje prikazuje vaš softver korisne.
 
 ### Tehnologija
 Dozvoljeno je korišćenje bilo koje platforme i tehnologije za razvoj vašeg rešenja. Takođe je moguće koristiti kombinaciju više platformi i tehnologija. Dozvoljeno je korišćenje svih javno dostupnih API-ja.
