@@ -36,7 +36,7 @@ java -jar C:\Centili\GeoTrackingDataGenerator.jar http://localhost:8080/receive 
 ```
 Primer JSON-a koji se dobija od generator-a:
 ```json
-{"countryName":"Croatia","countryCode":"hr","timeStamp":1491653333970,"operator":"NETM_StarArcade_DE499","service":"NETM_StarArcade_DE499","price":9.051144,"revenue":1.26716,"serviceType":"ONETIME","successful":true}
+{"countryName":"Tunisia","countryCode":"tn","timeStamp":1491654658100,"operator":"NETM_StarArcade_DE499","service":"VODAFONE","price":1.1240366,"revenue":0.11240366,"serviceType":"SUBSCIPTION","successful":false}
 ```
 **Obavezno je koristiti podatke koje stvara generator podataka.**
 
