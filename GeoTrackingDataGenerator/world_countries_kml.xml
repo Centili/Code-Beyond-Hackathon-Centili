@@ -6,18 +6,18 @@
 <text>$[description]</text>
 </BalloonStyle>
 <PolyStyle>
-  <color>59666666</color>
+  <color>00000000</color>
   <colorMode>normal</colorMode>
   <fill>1</fill>
   <outline>1</outline>
 </PolyStyle>
 <LineStyle>
-  <color>FF666666</color>
+  <color>00000000</color>
   <colorMode>normal</colorMode>
   <width>1</width>
 </LineStyle>
 <IconStyle>
-<color>FFFFFFFF</color>
+<color>00000000</color>
 <scale>1.1</scale>
 <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/><Icon>
 <href>http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png</href>
