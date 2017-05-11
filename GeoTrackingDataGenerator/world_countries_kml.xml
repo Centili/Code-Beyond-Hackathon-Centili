@@ -8,13 +8,13 @@
 <PolyStyle>
   <color>00000000</color>
   <colorMode>normal</colorMode>
-  <fill>1</fill>
-  <outline>1</outline>
+  <fill>0</fill>
+  <outline>0</outline>
 </PolyStyle>
 <LineStyle>
   <color>00000000</color>
   <colorMode>normal</colorMode>
-  <width>1</width>
+  <width>0</width>
 </LineStyle>
 <IconStyle>
 <color>00000000</color>
